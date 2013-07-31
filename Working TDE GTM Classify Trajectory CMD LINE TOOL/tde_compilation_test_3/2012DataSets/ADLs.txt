@@ -1,0 +1,11 @@
+21 Lying-bed		LYBE
+23 Sit-bed		SIBE
+24 Sit-chair		SCHH
+25 Sit-sofa		SSOO
+26 Sit-air		SAII
+27 Walking(forward)	WAFF
+28 Jogging		JOFF
+29 Walking(backward)	WABB
+30 Bending		BEXX
+31 Bending-pick-up 	BEPP
+34 Squatting-down	SQDD

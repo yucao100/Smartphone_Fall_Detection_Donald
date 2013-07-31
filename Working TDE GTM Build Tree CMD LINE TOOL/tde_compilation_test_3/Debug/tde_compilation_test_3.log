@@ -1,0 +1,17 @@
+﻿Build started 7/22/2013 1:21:29 PM.
+     1>Project "C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Copy\tde_compilation_test_3\tde_compilation_test_3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tde_compilation_test_3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         tde_compilation_test_3.vcxproj -> C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Copy\Debug\tde_compilation_test_3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\tde_compilation_test_3.unsuccessfulbuild".
+         Touching "Debug\tde_compilation_test_3.lastbuildstate".
+     1>Done Building Project "C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Copy\tde_compilation_test_3\tde_compilation_test_3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17

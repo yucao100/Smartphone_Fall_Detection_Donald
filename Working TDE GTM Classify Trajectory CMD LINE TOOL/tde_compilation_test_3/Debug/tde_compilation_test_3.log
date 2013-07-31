@@ -1,0 +1,60 @@
+﻿Build started 7/31/2013 1:04:09 AM.
+     1>Project "C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\tde_compilation_test_3\tde_compilation_test_3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tde_compilation_test_3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\ann.h(92): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(60): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(91): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(127): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\classifytrajectory.cpp(115): warning C4101: 'fout' : unreferenced local variable
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\main.cpp(28): warning C4101: 'tmp' : unreferenced local variable
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\main.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\main.cpp(89): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\main.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\cia\documents\visual studio 2010\projects\tde_compilation_test_3-working - classify trajectory\tde_compilation_test_3\main.cpp(95): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.exe" /NOLOGO opencv_calib3d245d.lib opencv_contrib245d.lib opencv_core245d.lib opencv_features2d245d.lib opencv_flann245d.lib opencv_gpu245d.lib opencv_haartraining_engined.lib opencv_highgui245d.lib opencv_imgproc245d.lib opencv_legacy245d.lib opencv_ml245d.lib opencv_nonfree245d.lib opencv_objdetect245d.lib opencv_photo245d.lib opencv_stitching245d.lib opencv_superres245d.lib opencv_ts245d.lib opencv_video245d.lib opencv_videostab245d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tde_compilation_test_3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.lib" /MACHINE:X86 Debug\ANN.obj
+         Debug\bd_fix_rad_search.obj
+         Debug\bd_pr_search.obj
+         Debug\bd_search.obj
+         Debug\bd_tree.obj
+         Debug\brute.obj
+         Debug\BuildTree.obj
+         Debug\Classifier.obj
+         Debug\ConfusionMatrix.obj
+         Debug\kd_dump.obj
+         Debug\kd_fix_rad_search.obj
+         Debug\kd_pr_search.obj
+         Debug\kd_search.obj
+         Debug\kd_split.obj
+         Debug\kd_tree.obj
+         Debug\kd_util.obj
+         Debug\main.obj
+         LINK : C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.exe not found or not built by the last incremental link; performing full link
+         tde_compilation_test_3.vcxproj -> C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\Debug\tde_compilation_test_3.exe;#1" /manifest Debug\tde_compilation_test_3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\tde_compilation_test_3.unsuccessfulbuild".
+         Touching "Debug\tde_compilation_test_3.lastbuildstate".
+     1>Done Building Project "C:\Users\CIA\Documents\Visual Studio 2010\Projects\tde_compilation_test_3-Working - Classify Trajectory\tde_compilation_test_3\tde_compilation_test_3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.67

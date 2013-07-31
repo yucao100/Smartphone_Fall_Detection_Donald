@@ -1,0 +1,1 @@
+#A simple script to parse the USC data into files of acceleration magnitudes
