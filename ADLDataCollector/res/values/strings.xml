@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADL Data Collector</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <!-- These ADL's come from Monitor of human movements for fall detection and activities
+    recognition in elderly care using wireless sensor networks: a survey, Abbate et al. -->
+    
+    <string-array name="ADL_array">
+        
+        <item>Front-lying-FALL</item>
+        <item>Front-protecting-lying-FALL</item>
+        <item>Front-knees-FALL</item>
+        <item>Front-right-FALL</item>
+        <item>Front-left-FALL</item>
+        <item>Front-quick-recovery-FALL</item>
+        <item>Front-slow-recovery-FALL</item>
+        <item>Back-sitting-FALL</item>
+        <item>Back-lying-FALL</item>
+        <item>Back-right-FALL</item>
+        <item>Back-left-FALL</item>
+        <item>Right-sideway-FALL</item>
+        <item>Right-recovery-FALL</item>
+        <item>Left-sideway-FALL</item>
+        <item>Left-recovery-FALL</item>
+        <item>Syncope-FALL</item>
+        <item>Syncope-wall-FALL</item>
+        <item>Podium-FALL</item>
+        <item>Rolling-out-bed-FALL</item>
+        
+        <item>Lying-bed</item>
+        <item>Rising-bed</item>
+        <item>Sit-bed</item>
+        <item>Sit-chair</item>
+        <item>Sit-sofa</item>
+        <item>Sit-air</item>
+        <item>Walking-forward</item>
+        <item>Jogging</item>
+        <item>Walking-backward</item>
+        <item>Bending</item>
+        <item>Bending-pick-up</item>
+        <item>Stumble</item>
+        <item>Limp</item>
+        <item>Squatting-down</item>
+        <item>Trip-over</item>
+        <item>Coughing-sneezing</item>
+        
+    </string-array>
+
+</resources>

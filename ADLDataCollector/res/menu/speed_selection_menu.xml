@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/fastestSpeed"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Fastest Speed"/>
+
+    <item
+        android:id="@+id/gameSpeed"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="Game Speed"/>
+    
+    <item
+        android:id="@+id/UISpeed"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="UI Speed"/>
+
+    <item
+        android:id="@+id/NormalSpeed"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="Normal Speed"/>
+</menu>
